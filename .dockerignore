@@ -1,0 +1,11 @@
+.git
+**/node_modules
+**/bin
+**/obj
+**/App_Data
+**/wwwroot
+**/dist
+**/*.db*
+.env*
+outputs
+screenshots

@@ -2,7 +2,7 @@
 
 **The right access. A clear record.**
 
-An original full-stack portfolio project by **Jason Caroon**: request access to a fictional resource, review the business reason as an independent approver, and inspect the server-recorded audit trail.
+An original full-stack portfolio project by **jcaroon**: request access to a fictional resource, review the business reason as an independent approver, and inspect the server-recorded audit trail.
 
 [Live demo](https://accessledger.jsjaon.com) · [Architecture](docs/architecture.md) · [API and authorization](docs/api.md) · [Security boundaries](SECURITY.md)
 
